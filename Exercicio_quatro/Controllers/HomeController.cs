@@ -34,6 +34,8 @@ namespace AppQuarta.Controllers
         {
             return View();
         }
+
+        [HttpPost]
         public IActionResult CadastrarProduto(Produto objProduto)
         {
             if (ModelState.IsValid)

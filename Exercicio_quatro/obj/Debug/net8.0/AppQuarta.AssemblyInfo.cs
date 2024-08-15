@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppQuarta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baedf235d506083aef712fcf2443415e21efbec7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppQuarta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppQuarta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

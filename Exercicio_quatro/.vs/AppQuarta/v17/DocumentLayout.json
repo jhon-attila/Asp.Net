@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\Downloads\\Exercicio_quatro\\Exercicio_quatro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29A84BFF-C6C2-43DF-BEB9-DE9D1A932AF0}|AppQuarta.csproj|c:\\users\\jo\u00E3o\\downloads\\exercicio_quatro\\exercicio_quatro\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A84BFF-C6C2-43DF-BEB9-DE9D1A932AF0}|AppQuarta.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A84BFF-C6C2-43DF-BEB9-DE9D1A932AF0}|AppQuarta.csproj|c:\\users\\jo\u00E3o\\downloads\\exercicio_quatro\\exercicio_quatro\\views\\home\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29A84BFF-C6C2-43DF-BEB9-DE9D1A932AF0}|AppQuarta.csproj|solutionrelative:views\\home\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29A84BFF-C6C2-43DF-BEB9-DE9D1A932AF0}|AppQuarta.csproj|c:\\users\\jo\u00E3o\\downloads\\exercicio_quatro\\exercicio_quatro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29A84BFF-C6C2-43DF-BEB9-DE9D1A932AF0}|AppQuarta.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastrarProduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Exercicio_quatro\\Exercicio_quatro\\Views\\Home\\CadastrarProduto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CadastrarProduto.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Exercicio_quatro\\Exercicio_quatro\\Views\\Home\\CadastrarProduto.cshtml",
+              "RelativeToolTip": "Views\\Home\\CadastrarProduto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T20:28:01.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Exercicio_quatro\\Exercicio_quatro\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Exercicio_quatro\\Exercicio_quatro\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:25:00.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Downloads\\Exercicio_quatro\\Exercicio_quatro\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Jo\u00E3o\\Downloads\\Exercicio_quatro\\Exercicio_quatro\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAADwvyMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T18:57:31.763Z",
               "EditorCaption": ""

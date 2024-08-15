@@ -9,8 +9,8 @@ namespace AppQuarta.Models
         public int Cod_Produto { get; set; }
 
         [Display(Name = "Validade")]
-        [Range(1, 200, ErrorMessage = "Insira a data validade do produto")]
-        public DateOnly Validade { get; set; }
+        [Range(1, 200, ErrorMessage = "Insira a data validade do produto ex:  1, 2001")]
+        public string Validade { get; set; }
 
         [Display(Name = "Estoque")]
         [Range(1, 200, ErrorMessage = "Insira a quantidade de produto no estoque")]

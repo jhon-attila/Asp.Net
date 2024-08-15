@@ -675,3 +675,4 @@ C:\Users\João\Downloads\Exercicio_quatro\Exercicio_quatro\obj\Debug\net8.0\refi
 C:\Users\João\Downloads\Exercicio_quatro\Exercicio_quatro\obj\Debug\net8.0\AppQuarta.pdb
 C:\Users\João\Downloads\Exercicio_quatro\Exercicio_quatro\obj\Debug\net8.0\AppQuarta.genruntimeconfig.cache
 C:\Users\João\Downloads\Exercicio_quatro\Exercicio_quatro\obj\Debug\net8.0\ref\AppQuarta.dll
+C:\Users\João\Downloads\Exercicio_quatro\Exercicio_quatro\obj\Debug\net8.0\AppQuarta.sourcelink.json
